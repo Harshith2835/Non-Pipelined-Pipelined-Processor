@@ -99,4 +99,4 @@ Finally, we observe that clock cycles in the non-pipelined processor and pipelin
 
 ## Team Members
 1. G Sujit
-2. A Harshit
+2. A Harshith
